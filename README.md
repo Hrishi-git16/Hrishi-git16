@@ -146,7 +146,6 @@ class Hrishikesh:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishi-git16&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=7c3aed&point=f8fafc&hide_border=true" width="100%" alt="Activity Graph" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hrishi-git16&theme=tokyonight" width="88%" alt="GitHub Contribution Summary" />
 </div>
 
